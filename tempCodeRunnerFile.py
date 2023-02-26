@@ -1,0 +1,1 @@
+melody = melody.measures(0, harmony_len)
